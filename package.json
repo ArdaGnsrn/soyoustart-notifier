@@ -1,0 +1,21 @@
+{
+  "name": "checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArdaGnsrn",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord-webhook-node": "^1.0.7",
+    "email-templates": "^7.0.5",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "nodemailer": "^6.4.10",
+    "pug": "^3.0.0",
+    "pushover-notifications": "^1.2.2"
+  }
+}
